@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arjun%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20that%20(mostly)%20work%20%F0%9F%94%A7&descAlignY=51&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Diploma+Student+%40+Vidyalankar+Polytechnic+%F0%9F%8E%93;Building+%40+Innoverse+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Dev+%7C;+Recovering+from+%22just+one+more+feature%22;4+out+of+5+people+recommend+me.+The+5th+has+no+taste.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Engineering+Student+%F0%9F%8E%93;Building+%40+Innoverse+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Dev+%7C;+Recovering+from+%22just+one+more+feature%22;4+out+of+5+people+recommend+me.+The+5th+has+no+taste.)](https://git.io/typing-svg)
 
 <br/>
 
