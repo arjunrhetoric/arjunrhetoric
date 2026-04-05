@@ -37,7 +37,7 @@
 
 ---
 
-## ⚡ `$ ls skills/`
+## `$ ls skills/`
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -147,16 +147,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunrhetoric&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 `$ trophies --show --no-modesty`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arjunrhetoric&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
